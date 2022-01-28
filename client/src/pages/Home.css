@@ -1,0 +1,12 @@
+.bg-bg {
+  background-image: url(https://exergyengineering.files.wordpress.com/2021/03/german-cars.jpg);
+  background-repeat: no-repeat;
+  height: 900px;
+  padding-left: 300px;
+}
+.container {
+  padding-top: 200px;
+  margin-left: 320px;
+  font-size: xx-large;
+  font-weight: 900;
+}
